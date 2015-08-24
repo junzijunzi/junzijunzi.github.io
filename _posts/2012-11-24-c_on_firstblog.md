@@ -6,7 +6,9 @@ tagline: by yy
 tags: [开篇, js, css]
 ---
 这是我第一篇github博客啊，markdown好像也不难哦，测试一下搭建的github page+jekyll有没有成功先，啦啦啦~~~
+
 哎哟，转了前端要学习的东西好多呢：
+
 + html
 + css
 + js
@@ -17,11 +19,15 @@ tags: [开篇, js, css]
 + 还有各种性能考虑啊
 + 还有各种没见过的技术啊
 + ……
+
 好吧，再试一下代码能不能高亮先：
+
 	<script>
 		console.log("hello world!");
 	</script>
+
 快把博客搭起来啦~~~
-然而，，好像暂时没有技术博客可以发布的 ![衰](/assets/blog/环境搭建/img/shuai_qq.png "Title")
+
+然而，，好像暂时没有技术博客可以发布的![衰](/assets/blog/环境搭建/img/shuai_qq.png "Title")
 
 
