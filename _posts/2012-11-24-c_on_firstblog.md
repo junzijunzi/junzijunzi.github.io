@@ -28,6 +28,8 @@ tags: [开篇, js, css]
 
 快把博客搭起来啦~~~
 
-然而，，好像暂时没有技术博客可以发布的![衰](/assets/blog/环境搭建/img/shuai_qq.png "Title")
+然而，，好像暂时没有技术博客可以发布的![衰](/assets/blog/环境搭建/img/shuai_qq.png)
+
+然而，，好像暂时没有技术博客可以发布的<img src="/assets/blog/环境搭建/img/shuai_qq.png"/>
 
 
