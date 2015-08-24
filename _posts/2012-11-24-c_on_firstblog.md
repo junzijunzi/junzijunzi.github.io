@@ -25,7 +25,7 @@ tags: [开篇, js, css]
 		console.log("hello world!");
 	</script>
 
-快把博客搭起来啦~~~sfwefew
+快把博客搭起来啦~~~
 
 然而，，好像暂时没有技术博客可以发布的 ![衰](/assets/themes/Snail/img/blog/环境搭建/shuai_qq.png "Title")
 
