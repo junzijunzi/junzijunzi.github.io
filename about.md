@@ -6,4 +6,4 @@ group: navigation
 ---
  * **Name:** YY
  * **Email:** [junyanzheng@163.com](junyanzheng@163.com)
- * **Github:** [YY](https://github.com/junzijunzi)
+ * **Github:** [junzijunzi](https://github.com/junzijunzi)
